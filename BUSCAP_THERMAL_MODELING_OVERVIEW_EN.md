@@ -24,6 +24,12 @@ The skill supports these common tasks:
 - `.github/skills/buscap-thermal-modeling/references/quick-start.md`
 - `.github/skills/buscap-thermal-modeling/references/copilot-prompt-examples.md`
 
+## Related Root Documents
+
+- `BUSCAP_THERMAL_MODELING_PR_SUMMARY.md`
+- `BUSCAP_THERMAL_MODELING_SHARE_BLURB.md`
+- `SKILLS_INDEX.md`
+
 ## Why This Skill Exists
 
 The point of this skill is not to create another abstraction layer. The point is to make the existing stable workflow discoverable, reusable, and easier to invoke through Copilot.
@@ -34,6 +40,7 @@ The point of this skill is not to create another abstraction layer. The point is
 2. Follow `.github/skills/buscap-thermal-modeling/references/quick-start.md`
 3. Use `.github/skills/buscap-thermal-modeling/references/copilot-prompt-examples.md` when prompting Copilot
 4. Read `BUSCAP_THERMAL_MODELING_PR_SUMMARY.md` if you want the file-by-file breakdown
+5. Use `BUSCAP_THERMAL_MODELING_SHARE_BLURB.md` if you want a ready-to-send bilingual mail/IM template
 
 ## One-Sentence Summary
 
